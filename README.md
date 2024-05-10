@@ -29,18 +29,19 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/><br>Python
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/><br>PostgreSQL
   </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R programming" title="R programming" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R programming" title="R programming" width="40" height="40"/><br>R programming
   </a>
   <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="SQL" title="SQL" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="SQL" title="SQL" width="40" height="40"/><br>SQL
   </a>
 </p>
+
 
 
 

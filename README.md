@@ -37,10 +37,11 @@
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R programming" title="R programming" width="40" height="40"/><br>R programming
   </a>
-  <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="SQL" title="SQL" width="40" height="40"/><br>SQL
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" title="Tableau" width="40" height="40"/><br>Tableau
   </a>
 </p>
+
 
 
 

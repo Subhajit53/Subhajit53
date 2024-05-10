@@ -29,13 +29,13 @@
 
 ### Skills 🚀 
 
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-lightgrey?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-lightgrey?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-2ea44f?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-blueviolet?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-important?style=for-the-badge)
-![Computer Vision - CV](https://img.shields.io/badge/Computer_Vision-CV-blue?style=for-the-badge)
-![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-success?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF5C77?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-4DD091?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFeC59?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FFA23A?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-FF6F68?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-0065A2?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-F2D4CC?style=for-the-badge)
 
 
 ### Programming Languages: 

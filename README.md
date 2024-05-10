@@ -58,8 +58,6 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-749cbc?style=for-the-badge&logo=seaborn)
 
-![Tableau Visualization]([https://link_to_your_image.png](https://public.tableau.com/views/British_Airways_Viz/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link))
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajit53&show_icons=true&locale=en&layout=compact" alt="subhajit53" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajit53&show_icons=true&locale=en" alt="subhajit53" /></p>

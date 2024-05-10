@@ -40,7 +40,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-[![Seaborn](https://img.shields.io/badge/Seaborn-F2F1F2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTguOTc3NzcgMTEuNzQwMTRoLTIuNjg3MjNjLTEuNzYzNzEgMC0zLjEzOTg5LDEuMTc5OTYtMy4xMzk4OSwzLjE0NjQ1UzUuNzQ3ODMgMTEuNzQwMTRTMCwyLjY4NzIzIDAsOC45Nzc3NyAxMS43NDAxNHoiLz4KPC9zdmc+Cg==)](https://seaborn.pydata.org/)
+![Seaborn](https://img.shields.io/badge/Seaborn-F2F1F2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTguOTc3NzcgMTEuNzQwMTRoLTIuNjg3MjNjLTEuNzYzNzEgMC0zLjEzOTg5LDEuMTc5OTYtMy4xMzk4OSwzLjE0NjQ1UzUuNzQ3ODMgMTEuNzQwMTRTMCwyLjY4NzIzIDAsOC45Nzc3NyAxMS43NDAxNHoiLz4KPC9zdmc+Cg==)
 
 
 ### Data Visualization: 

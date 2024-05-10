@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subhajit Ganguly</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=C0C0C0&background=DFDEDB00&center=true&vCenter=true&random=false&width=435&lines=Experienced+Data+Scientist;Statistics+Graduate;Pursuing+Masters+in+Data+Science;Interested+in+ML+DL+RL+Stats" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=899499&background=DFDEDB00&center=true&vCenter=true&random=false&width=435&lines=Experienced+Data+Scientist;Statistics+Graduate;Pursuing+Masters+in+Data+Science;Interested+in+ML+DL+RL+Stats" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">

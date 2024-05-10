@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhajit Ganguly</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=36454F&background=FAF9F600&center=true&random=false&width=435&lines=Experienced+Data+Scientist;Statistics+Graduate;Pursuing+Masters+in+Data+Science;Interested+in+ML+DL+RL+Stats" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=36454F&background=DFDEDB00&center=true&vCenter=true&random=false&width=435&lines=Experienced+Data+Scientist;Statistics+Graduate;Pursuing+Masters+in+Data+Science;Interested+in+ML+DL+RL+Stats" alt="Typing SVG" /></a>
 
 <p align="center">
 <a href="https://linkedin.com/in/subhajit-ganguly-665a821b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhajit-ganguly-665a821b2" height="30" width="40" /></a>

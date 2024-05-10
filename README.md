@@ -8,12 +8,7 @@
 <a href="https://linkedin.com/in/subhajit-ganguly-665a821b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhajit-ganguly-665a821b2" height="30" width="40" /></a>
 <a href="https://kaggle.com/subhajit53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="subhajit53" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/subhajitganguly1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subhajitganguly1" height="30" width="40" /></a>
-<a href="https://public.tableau.com/app/profile/subhajit.ganguly/vizzes" target="blank">
-  <svg xmlns="http://www.w3.org/2000/svg" height="30" width="40" viewBox="0 0 64 64">
-    <rect width="100%" height="100%" fill="white"/>
-    <image xlink:href="https://www.svgrepo.com/show/354427/tableau.svg" width="100%" height="100%"/>
-  </svg>
-</a>
+<a href="https://public.tableau.com/app/profile/subhajit.ganguly/vizzes" target="blank"><img align="center" src="https://www.svgrepo.com/show/354427/tableau.svg" alt="subhajit.ganguly" height="30" width="40" /></a>
 </p>
 
 - 🔭 I’m currently working on **chatbot development for apparel stores**

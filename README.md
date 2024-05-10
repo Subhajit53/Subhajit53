@@ -27,7 +27,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=subhajit53&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit53" /> </p>
 
 
-### Skills 🚀 
+### What you can expect from me: 
 
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF5C77?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4DD091?style=for-the-badge)
@@ -38,9 +38,16 @@
 ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-F2D4CC?style=for-the-badge)
 
 
-### Programming Languages: 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![R Language](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+| Programming Languages | Data Analytics and Visualization | Database Management |
+|:----:|:----:|:----:|
+|![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![R Language](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)|
+|![Tableau](https://img.shields.io/badge/Tableau-F2F1F2?style=for-the-badge&logo=tableau)
+![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)|
+|![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)|
+
+
 
 ### Packages Expertise:
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -53,15 +60,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-749cbc?style=for-the-badge&logo=seaborn)
-
-
-### Data Analytics and Visualization: 
-![Tableau](https://img.shields.io/badge/Tableau-F2F1F2?style=for-the-badge&logo=tableau)
-![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-# Database Management:
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 

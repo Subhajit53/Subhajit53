@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/subhajit-ganguly-665a821b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhajit-ganguly-665a821b2" height="45" width="70" /></a>
 <a href="https://kaggle.com/subhajit53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="subhajit53" height="45" width="70" /></a>
 <a href="https://www.hackerrank.com/subhajitganguly1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subhajitganguly1" height="45" width="70" /></a>
-<a href="https://public.tableau.com/app/profile/subhajit.ganguly/vizzes" target="blank"><img align="center" src="https://www.svgrepo.com/show/354427/tableau.svg" alt="subhajit.ganguly" height="45" width="70" /></a>
+<a href="https://public.tableau.com/app/profile/subhajit.ganguly/vizzes" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="subhajit.ganguly" height="45" width="70" /></a>
 </p>
 
 - 🔭 I’m currently working on **chatbot development for apparel stores**

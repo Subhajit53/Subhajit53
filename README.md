@@ -40,7 +40,7 @@
 
 | Programming Languages | Data Analytics and Visualization | Database Management |
 |:----:|:----:|:----:|
-| ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  ![R Language](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) | ![Tableau (https://img.shields.io/badge/Tableau-F2F1F2?style=for-the-badge&logo=tableau) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  ![R Language](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) | ![Tableau] (https://img.shields.io/badge/Tableau-F2F1F2?style=for-the-badge&logo=tableau) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
 
 
 

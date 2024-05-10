@@ -26,6 +26,18 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=subhajit53&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit53" /> </p>
 
+
+### Skills 🚀 
+
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-lightgrey?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-lightgrey?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-2ea44f?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-blueviolet?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-important?style=for-the-badge)
+![Computer Vision - CV](https://img.shields.io/badge/Computer_Vision-CV-blue?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-success?style=for-the-badge)
+
+
 ### Programming Languages: 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![R Language](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -36,17 +48,20 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2350C878.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Seaborn](https://img.shields.io/badge/Seaborn-F2F1F2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTguOTc3NzcgMTEuNzQwMTRoLTIuNjg3MjNjLTEuNzYzNzEgMC0zLjEzOTg5LDEuMTc5OTYtMy4xMzk4OSwzLjE0NjQ1UzUuNzQ3ODMgMTEuNzQwMTRTMCwyLjY4NzIzIDAsOC45Nzc3NyAxMS43NDAxNHoiLz4KPC9zdmc+Cg==)
+![Seaborn](https://img.shields.io/badge/Seaborn-749cbc?style=for-the-badge&logo=seaborn)
 
 
-### Data Visualization: 
+### Data Analytics and Visualization: 
 ![Tableau](https://img.shields.io/badge/Tableau-F2F1F2?style=for-the-badge&logo=tableau)
+![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-
+# Database Management:
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 

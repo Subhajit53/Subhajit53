@@ -2,6 +2,12 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=36454F&width=380&height=45&lines=Experienced+Data+Scientist;BSc+Statistics+from+University+of+Calcutta;MSc+Data+Science+from+MAHE+(Pursuing);Interseted+in+ML+DL+RL+Statistics;Nice+To+Meet+You+...&center=true"></a>
+
+</p>
+
+<p align="center">
 <a href="https://linkedin.com/in/subhajit-ganguly-665a821b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhajit-ganguly-665a821b2" height="30" width="40" /></a>
 <a href="https://kaggle.com/subhajit53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="subhajit53" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/subhajitganguly1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subhajitganguly1" height="30" width="40" /></a>

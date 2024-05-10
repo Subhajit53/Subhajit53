@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Subhajit Ganguly</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=36454F&width=380&height=45&lines=Experienced+Data+Scientist;BSc+Statistics+from+University+of+Calcutta;MSc+Data+Science+from+MAHE+(Pursuing);Interseted+in+ML+DL+RL+Statistics;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=36454F&width=380&height=45&lines=Experienced+Data+Scientist;BSc+Statistics+MSc+Data+Science+(Pursuing);Interseted+in+ML+DL+RL+Statistics;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
 

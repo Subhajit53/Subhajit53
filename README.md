@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Subhajit Ganguly</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+<p align="center">
+<a href="https://linkedin.com/in/subhajit-ganguly-665a821b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhajit-ganguly-665a821b2" height="30" width="40" /></a>
+<a href="https://kaggle.com/subhajit53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="subhajit53" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/subhajitganguly1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subhajitganguly1" height="30" width="40" /></a>
+</p>
+
 - 🔭 I’m currently working on **chatbot development for apparel stores**
 
 - 🌱 I’m currently learning **theories related to reinforcement learning**
@@ -17,12 +23,6 @@
 
 - ⚡ Fun fact **All snakes don't bite. Some runs codes.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/subhajit-ganguly-665a821b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhajit-ganguly-665a821b2" height="30" width="40" /></a>
-<a href="https://kaggle.com/subhajit53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="subhajit53" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/subhajitganguly1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subhajitganguly1" height="30" width="40" /></a>
-</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=subhajit53&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit53" /> </p>
 
@@ -38,10 +38,9 @@
 ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-F2D4CC?style=for-the-badge)
 
 
-| Programming Languages | Data Analytics and Visualization | Database Management |
-|:----:|:----:|:----:|
-| ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  ![R Language](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-F2F1F2?style=for-the-badge&logo=tableau) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
-
+| Programming Languages | Data Analytics and Visualization | Database Management | Others |
+|:----:|:----:|:----:|:----:|
+| ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  ![R Language](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-F2F1F2?style=for-the-badge&logo=tableau) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)  ![](https://img.shields.io/badge/Streamlit-D30A0A?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 
 ### Packages Expertise:

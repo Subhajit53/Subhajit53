@@ -11,7 +11,7 @@
 <a href="https://public.tableau.com/app/profile/subhajit.ganguly/vizzes" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="subhajit.ganguly" height="45" width="70" /></a>
 </p>
 
-- 🔭 I’m currently working on **chatbot development for apparel stores**
+- 🔭 I’m currently working on **Bone Crack Detection End-to-End**
 
 - 🌱 I’m currently learning **theories related to reinforcement learning**
 
